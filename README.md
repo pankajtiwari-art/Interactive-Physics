@@ -59,4 +59,4 @@ Since this project has zero dependencies, running it locally is incredibly simpl
 Feel free to fork this project, submit pull requests, or send suggestions. Whether it's adding new physics parameters or upgrading the UI, contributions are always welcome!
 
 ## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
